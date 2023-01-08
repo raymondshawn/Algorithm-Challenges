@@ -16,4 +16,4 @@ function angle(hour,min){
 
 }
 
-console.log(angle(10,30));
+console.log(angle(8,24));
